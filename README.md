@@ -18,7 +18,7 @@ A ERC20 token smart contract with unique "certificate" properties. A certificate
 
 - Receipient pays gas costs for receiving tokens.
 
-### Certificate Token
+### Fee Token
 
 A ERC20 token smart contract with unique fee properties. The smart contract emulates functionality found in the Tether ERC20 smart contract, which includes the ability to add a fees for transfering tokens.
 
