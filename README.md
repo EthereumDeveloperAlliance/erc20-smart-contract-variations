@@ -54,3 +54,14 @@ If the contracts are deployed using the OpenZeppelin CLI you can continue to int
 $ oz call
 $ oz send-tx
 ```
+
+## Contributors
+
+| Name               | Website                      |
+| ------------------ | ---------------------------- |
+| **Kames Geraghty** | <https://github.com/kamescg> |
+| **Joe Bernitt**    | <https://github.com/joeb000> |
+
+## License
+
+[MIT](LICENSE) © [Ethereum Developer Alliance](https://github.com/EthereumDeveloperAlliance)
